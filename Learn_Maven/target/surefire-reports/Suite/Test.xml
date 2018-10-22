@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="EQ-EQ6281043" name="com.learn.maven.DemoMaven" tests="1" failures="0" timestamp="22 Oct 2018 16:45:06 GMT" time="11.427" errors="0">
+  <testcase name="testMaven" time="11.413" classname="com.learn.maven.DemoMaven"/>
+</testsuite>
